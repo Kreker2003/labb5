@@ -1,0 +1,5 @@
+﻿  lab5.cpp
+C:\Users\user\source\repos\lab5\lab5.cpp(45,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\lab5\lab5.cpp(130,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\lab5\lab5.cpp(132,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab5.vcxproj -> C:\Users\user\source\repos\lab5\Debug\lab5.exe
